@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-05-29T17:30:17.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="L0U78F1Vk54eJnTnHTGB" version="21.3.5" type="github">
+  <diagram name="Página-1" id="y7Lh0UwERstkx_MNArbD">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-3" value="Diretoria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-4" value="Financeiro e RH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-5" value="Diversos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="660" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-6" value="Engenharia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-7" value="Almoxarifado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-8" value="Design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-9" value="FabLab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-10" value="Recebimento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-11" value="Expedição" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-12" value="Esteira separadora" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-13" value="Trituradoras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-14" value="Compressadoras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="540" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-15" value="Extrusoras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="540" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LwLsnrUyIC2hACuyLNrj-16" value="SERVIDORES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="170" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
